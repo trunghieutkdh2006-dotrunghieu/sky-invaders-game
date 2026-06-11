@@ -1,15 +1,8 @@
-Đối với máy macbook: main.cpp - vscode - terminal 
+Đối với máy macbook: main.cpp - vscode - terminal \
 Kiểm tra xem có các file: ls
 
 Câu lệnh: \
-g++ -std=c++11 \
-main.cpp \
-audio.cpp \
-bullet.cpp \
-enemy.cpp \
-gamestate.cpp \
-powerup.cpp \
-render.cpp \
+clang++ -std=c++17 main.cpp audio.cpp bullet.cpp enemy.cpp gamestate.cpp powerup.cpp render.cpp \
 -o game \
 -I/opt/homebrew/include \
 -L/opt/homebrew/lib \
