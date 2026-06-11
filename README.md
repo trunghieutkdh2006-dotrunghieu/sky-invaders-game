@@ -8,7 +8,6 @@ enemy.cpp \
 gamestate.cpp \
 powerup.cpp \
 render.cpp \
-background.cpp \
 -o game \
 -I/opt/homebrew/include \
 -L/opt/homebrew/lib \
