@@ -1,5 +1,7 @@
 Đối với máy macbook: main.cpp - vscode - terminal 
-Câu lệnh: 
+Kiểm tra xem có các file: ls
+
+Câu lệnh: \
 g++ -std=c++11 \
 main.cpp \
 audio.cpp \
